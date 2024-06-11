@@ -96,7 +96,7 @@ def evaluate_classifier(vqc, X_test, y_test, target_names=None):
 evaluate_classifier(vqc, X_test, y_test, target_names=iris.target_names)
 ```
 
-###Regression
+### Regression
 
 This example demonstrates regression using the Variational Quantum Regressor (VQR) with stock data.
 
