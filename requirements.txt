@@ -1,0 +1,7 @@
+qiskit
+qiskit-machine-learning
+scikit-learn
+seaborn
+matplotlib
+yfinance
+jupyter
